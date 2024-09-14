@@ -122,7 +122,7 @@ body {
 }
 .articulo-3 {
     background: #FFF;
-    width: 47%;
+    width: 43%;
     height: 60%;
     display: flex;
     flex-flow: wrap row;
@@ -184,7 +184,7 @@ body {
         .con-3{
             border-radius: 25px;
             height: 30%;
-            width: 105px;
+            width: 95%;
             transition: .5s;
         }
         .articulo-3-4{
